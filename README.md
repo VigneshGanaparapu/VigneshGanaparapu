@@ -103,8 +103,6 @@ To start my career as a Software Developer where I can apply my Java skills, con
 💼 LinkedIn:
 linkedin.com/in/vignesh-ganaparapu-b3481538a
 
-🌐 Portfolio:
-https://your-portfolio.com
 
 ---
 
