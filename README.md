@@ -98,10 +98,10 @@ To start my career as a Software Developer where I can apply my Java skills, con
 
 ## 📫 Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: vigneshganaparapu555@gmail.com
 
 💼 LinkedIn:
-https://www.linkedin.com/in/your-profile
+linkedin.com/in/vignesh-ganaparapu-b3481538a
 
 🌐 Portfolio:
 https://your-portfolio.com
